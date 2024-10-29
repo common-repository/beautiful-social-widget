@@ -1,0 +1,35 @@
+#bsw-content{display:block;clear:both;}
+#bsw-content a,#bsw-content a:hover{
+	background: transparent url("images/social-icon.png") 0 0 no-repeat;
+	font-size:18px;
+	clear: both;
+	display:block;
+	height:20px;
+	line-height:20px;
+	margin-bottom:8px;
+	padding-left:29px;
+	padding-bottom:4px;
+}
+a#bswfacebook{background-position:0px 0px}
+a#bswfacebook:hover{background-position:0px -35px;}
+a#bswtwitter{background-position:0px -72px}
+a#bswtwitter:hover{background-position:0px -108px}
+a#bswgoogleplus{background-position:0px -140px}
+a#bswgoogleplus:hover{background-position:0px -175px}
+a#bswlinkedin{background-position:0px -210px}
+a#bswlinkedin:hover{background-position:0px -244px}
+a#bswpinterest{background-position:0px -280px}
+a#bswpinterest:hover{background-position:0px -316px}
+a#bswyoutube{background-position:0px -351px}
+a#bswyoutube:hover{background-position:0px -386px}
+a#bswinstagram{background-position:0px -425px}
+a#bswinstagram:hover{background-position:0px -460px}
+a#bswtumblr{background-position:0px -494px}
+a#bswtumblr:hover{background-position:0px -528px}
+a#bswflickr{background-position:0px -562px}
+a#bswflickr:hover{background-position:0px -596px}
+a#bswrssfeed{background-position:0px -632px}
+a#bswrssfeed:hover{background-position:0px -669px}
+a#bswemail{background-position:0px -703px}
+a#bswemail:hover{background-position:0px -703px}
+

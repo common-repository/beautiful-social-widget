@@ -1,0 +1,3 @@
+== License ==
+
+This plugin uses Free Social Media Icons by Thomas Weichselbaumer (http://themezee.com/free-social-media-icons/) which is licensed under GPL v3 (http://www.gnu.org/licenses/gpl.html)
